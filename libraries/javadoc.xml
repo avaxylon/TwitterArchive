@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../twitter4j-3.0.4.zip!/twitter4j-appengine/javadoc" />
+      <root url="jar://$PROJECT_DIR$/../twitter4j-3.0.4.zip!/twitter4j-async/javadoc" />
+      <root url="jar://$PROJECT_DIR$/../twitter4j-3.0.4.zip!/twitter4j-core/javadoc" />
+      <root url="jar://$PROJECT_DIR$/../twitter4j-3.0.4.zip!/twitter4j-examples/javadoc" />
+      <root url="jar://$PROJECT_DIR$/../twitter4j-3.0.4.zip!/twitter4j-media-support/javadoc" />
+      <root url="jar://$PROJECT_DIR$/../twitter4j-3.0.4.zip!/twitter4j-stream/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../twitter4j-3.0.4.zip!/twitter4j-appengine/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../twitter4j-3.0.4.zip!/twitter4j-appengine/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../twitter4j-3.0.4.zip!/twitter4j-async/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../twitter4j-3.0.4.zip!/twitter4j-async/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../twitter4j-3.0.4.zip!/twitter4j-core/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../twitter4j-3.0.4.zip!/twitter4j-core/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../twitter4j-3.0.4.zip!/twitter4j-examples/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../twitter4j-3.0.4.zip!/twitter4j-media-support/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../twitter4j-3.0.4.zip!/twitter4j-media-support/src/test/java" />
+      <root url="jar://$PROJECT_DIR$/../twitter4j-3.0.4.zip!/twitter4j-stream/src/main/java" />
+      <root url="jar://$PROJECT_DIR$/../twitter4j-3.0.4.zip!/twitter4j-stream/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
